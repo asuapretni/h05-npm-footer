@@ -1,0 +1,25 @@
+{
+  "name": "h05-npm-footer",
+  "version": "0.1.0",
+  "description": "This module allows to generate a dymanic footer for JS applications with an updated year and name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asuapretni/h05-npm-footer.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Asuap Retni",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asuapretni/h05-npm-footer/issues"
+  },
+  "homepage": "https://github.com/asuapretni/h05-npm-footer#readme",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
